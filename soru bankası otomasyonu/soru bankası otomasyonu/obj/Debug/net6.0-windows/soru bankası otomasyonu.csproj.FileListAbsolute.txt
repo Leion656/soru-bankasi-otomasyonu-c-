@@ -1,0 +1,17 @@
+C:\Users\Asus\OneDrive\Masaüstü\soru banksı otomasyonu\soru bankası otomasyonu\soru bankası otomasyonu\bin\Debug\net6.0-windows\soru bankası otomasyonu.exe
+C:\Users\Asus\OneDrive\Masaüstü\soru banksı otomasyonu\soru bankası otomasyonu\soru bankası otomasyonu\bin\Debug\net6.0-windows\soru bankası otomasyonu.deps.json
+C:\Users\Asus\OneDrive\Masaüstü\soru banksı otomasyonu\soru bankası otomasyonu\soru bankası otomasyonu\bin\Debug\net6.0-windows\soru bankası otomasyonu.runtimeconfig.json
+C:\Users\Asus\OneDrive\Masaüstü\soru banksı otomasyonu\soru bankası otomasyonu\soru bankası otomasyonu\bin\Debug\net6.0-windows\soru bankası otomasyonu.dll
+C:\Users\Asus\OneDrive\Masaüstü\soru banksı otomasyonu\soru bankası otomasyonu\soru bankası otomasyonu\bin\Debug\net6.0-windows\soru bankası otomasyonu.pdb
+C:\Users\Asus\OneDrive\Masaüstü\soru banksı otomasyonu\soru bankası otomasyonu\soru bankası otomasyonu\obj\Debug\net6.0-windows\soru_bankası_otomasyonu.Form1.resources
+C:\Users\Asus\OneDrive\Masaüstü\soru banksı otomasyonu\soru bankası otomasyonu\soru bankası otomasyonu\obj\Debug\net6.0-windows\soru_bankası_otomasyonu.öğretmen.resources
+C:\Users\Asus\OneDrive\Masaüstü\soru banksı otomasyonu\soru bankası otomasyonu\soru bankası otomasyonu\obj\Debug\net6.0-windows\soru bankası otomasyonu.csproj.GenerateResource.cache
+C:\Users\Asus\OneDrive\Masaüstü\soru banksı otomasyonu\soru bankası otomasyonu\soru bankası otomasyonu\obj\Debug\net6.0-windows\soru bankası otomasyonu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\OneDrive\Masaüstü\soru banksı otomasyonu\soru bankası otomasyonu\soru bankası otomasyonu\obj\Debug\net6.0-windows\soru bankası otomasyonu.AssemblyInfoInputs.cache
+C:\Users\Asus\OneDrive\Masaüstü\soru banksı otomasyonu\soru bankası otomasyonu\soru bankası otomasyonu\obj\Debug\net6.0-windows\soru bankası otomasyonu.AssemblyInfo.cs
+C:\Users\Asus\OneDrive\Masaüstü\soru banksı otomasyonu\soru bankası otomasyonu\soru bankası otomasyonu\obj\Debug\net6.0-windows\soru bankası otomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\Asus\OneDrive\Masaüstü\soru banksı otomasyonu\soru bankası otomasyonu\soru bankası otomasyonu\obj\Debug\net6.0-windows\soru bankası otomasyonu.dll
+C:\Users\Asus\OneDrive\Masaüstü\soru banksı otomasyonu\soru bankası otomasyonu\soru bankası otomasyonu\obj\Debug\net6.0-windows\refint\soru bankası otomasyonu.dll
+C:\Users\Asus\OneDrive\Masaüstü\soru banksı otomasyonu\soru bankası otomasyonu\soru bankası otomasyonu\obj\Debug\net6.0-windows\soru bankası otomasyonu.pdb
+C:\Users\Asus\OneDrive\Masaüstü\soru banksı otomasyonu\soru bankası otomasyonu\soru bankası otomasyonu\obj\Debug\net6.0-windows\soru bankası otomasyonu.genruntimeconfig.cache
+C:\Users\Asus\OneDrive\Masaüstü\soru banksı otomasyonu\soru bankası otomasyonu\soru bankası otomasyonu\obj\Debug\net6.0-windows\ref\soru bankası otomasyonu.dll
